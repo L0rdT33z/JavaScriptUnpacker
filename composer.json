@@ -1,5 +1,5 @@
 {
-    "name": "L0rdT33z/javascript-unpacker",
+    "name": "L0rdT33z/JavaScriptUnpacker-PHP7",
     "description": "PHP helper that makes easy to unpack JavaScript code packed by Dean Edwards packer tool",
     "license": "MIT",
     "authors": [
