@@ -5,7 +5,7 @@ The input script may contain multiple encoded code blocks, mixes with the non-en
 
 ## Installation via Composer
 ```sh
-composer require "mervick/javascript-unpacker"
+composer require "L0rdT33z/JavaScriptUnpacker-PHP7"
 ```
 
 ## Usage
